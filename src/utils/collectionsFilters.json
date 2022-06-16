@@ -1,0 +1,559 @@
+[
+  {
+    "id": 1,
+    "name": "OptiPunks",
+    "slug": "optipunks",
+    "filters": [
+      {
+        "aliens": [
+          {
+            "tokenId": 7804,
+            "rarity": 2
+          },
+          {
+            "tokenId": 7523,
+            "rarity": 3
+          },
+          {
+            "tokenId": 3443,
+            "rarity": 4
+          },
+          {
+            "tokenId": 5905,
+            "rarity": 5
+          },
+          {
+            "tokenId": 2890,
+            "rarity": 6
+          },
+          {
+            "tokenId": 3100,
+            "rarity": 7
+          },
+          {
+            "tokenId": 5822,
+            "rarity": 8
+          },
+          {
+            "tokenId": 635,
+            "rarity": 9
+          },
+          {
+            "tokenId": 6089,
+            "rarity": 10
+          }
+        ]
+      },
+      {
+        "apes": [
+          {
+            "tokenId": 8498,
+            "rarity": 30
+          },
+          {
+            "tokenId": 9280,
+            "rarity": 31
+          },
+          {
+            "tokenId": 4464,
+            "rarity": 32
+          },
+          {
+            "tokenId": 5577,
+            "rarity": 33
+          },
+          {
+            "tokenId": 5217,
+            "rarity": 34
+          },
+          {
+            "tokenId": 6965,
+            "rarity": 35
+          },
+          {
+            "tokenId": 5795,
+            "rarity": 36
+          },
+          {
+            "tokenId": 372,
+            "rarity": 37
+          },
+          {
+            "tokenId": 2924,
+            "rarity": 38
+          },
+          {
+            "tokenId": 4178,
+            "rarity": 39
+          },
+          {
+            "tokenId": 2491,
+            "rarity": 40
+          },
+          {
+            "tokenId": 8219,
+            "rarity": 41
+          },
+          {
+            "tokenId": 6915,
+            "rarity": 42
+          },
+          {
+            "tokenId": 5314,
+            "rarity": 43
+          },
+          {
+            "tokenId": 2386,
+            "rarity": 44
+          },
+          {
+            "tokenId": 2460,
+            "rarity": 45
+          },
+          {
+            "tokenId": 4156,
+            "rarity": 46
+          },
+          {
+            "tokenId": 2140,
+            "rarity": 47
+          },
+          {
+            "tokenId": 1021,
+            "rarity": 48
+          },
+          {
+            "tokenId": 2711,
+            "rarity": 49
+          },
+          {
+            "tokenId": 6145,
+            "rarity": 50
+          },
+          {
+            "tokenId": 7191,
+            "rarity": 51
+          },
+          {
+            "tokenId": 9265,
+            "rarity": 52
+          },
+          {
+            "tokenId": 2243,
+            "rarity": 53
+          }
+        ]
+      },
+      {
+        "zombies": [
+          {
+            "tokenId": 4513,
+            "rarity": 54
+          },
+          {
+            "tokenId": 4874,
+            "rarity": 58
+          },
+          {
+            "tokenId": 3831,
+            "rarity": 61
+          },
+          {
+            "tokenId": 9203,
+            "rarity": 63
+          },
+          {
+            "tokenId": 6704,
+            "rarity": 64
+          },
+          {
+            "tokenId": 3636,
+            "rarity": 65
+          },
+          {
+            "tokenId": 6297,
+            "rarity": 66
+          },
+          {
+            "tokenId": 9804,
+            "rarity": 69
+          },
+          {
+            "tokenId": 1526,
+            "rarity": 71
+          },
+          {
+            "tokenId": 8553,
+            "rarity": 72
+          },
+          {
+            "tokenId": 8909,
+            "rarity": 74
+          },
+          {
+            "tokenId": 1748,
+            "rarity": 75
+          },
+          {
+            "tokenId": 4830,
+            "rarity": 76
+          },
+          {
+            "tokenId": 2560,
+            "rarity": 77
+          },
+          {
+            "tokenId": 5573,
+            "rarity": 82
+          },
+          {
+            "tokenId": 4850,
+            "rarity": 83
+          },
+          {
+            "tokenId": 2132,
+            "rarity": 85
+          },
+          {
+            "tokenId": 5489,
+            "rarity": 88
+          },
+          {
+            "tokenId": 5336,
+            "rarity": 92
+          },
+          {
+            "tokenId": 5299,
+            "rarity": 93
+          },
+          {
+            "tokenId": 9997,
+            "rarity": 94
+          },
+          {
+            "tokenId": 7660,
+            "rarity": 95
+          },
+          {
+            "tokenId": 1190,
+            "rarity": 97
+          },
+          {
+            "tokenId": 9838,
+            "rarity": 101
+          },
+          {
+            "tokenId": 4472,
+            "rarity": 104
+          },
+          {
+            "tokenId": 8531,
+            "rarity": 105
+          },
+          {
+            "tokenId": 1119,
+            "rarity": 107
+          },
+          {
+            "tokenId": 5066,
+            "rarity": 111
+          },
+          {
+            "tokenId": 6784,
+            "rarity": 112
+          },
+          {
+            "tokenId": 7756,
+            "rarity": 113
+          },
+          {
+            "tokenId": 7337,
+            "rarity": 114
+          },
+          {
+            "tokenId": 6586,
+            "rarity": 118
+          },
+          {
+            "tokenId": 3393,
+            "rarity": 121
+          },
+          {
+            "tokenId": 6649,
+            "rarity": 122
+          },
+          {
+            "tokenId": 9955,
+            "rarity": 124
+          },
+          {
+            "tokenId": 7252,
+            "rarity": 125
+          },
+          {
+            "tokenId": 9474,
+            "rarity": 126
+          },
+          {
+            "tokenId": 2424,
+            "rarity": 128
+          },
+          {
+            "tokenId": 6491,
+            "rarity": 135
+          },
+          {
+            "tokenId": 117,
+            "rarity": 136
+          },
+          {
+            "tokenId": 5312,
+            "rarity": 137
+          },
+          {
+            "tokenId": 7458,
+            "rarity": 138
+          },
+          {
+            "tokenId": 3211,
+            "rarity": 140
+          },
+          {
+            "tokenId": 7914,
+            "rarity": 141
+          },
+          {
+            "tokenId": 2967,
+            "rarity": 142
+          },
+          {
+            "tokenId": 8957,
+            "rarity": 145
+          },
+          {
+            "tokenId": 9909,
+            "rarity": 146
+          },
+          {
+            "tokenId": 8857,
+            "rarity": 148
+          },
+          {
+            "tokenId": 8307,
+            "rarity": 149
+          },
+          {
+            "tokenId": 7127,
+            "rarity": 150
+          },
+          {
+            "tokenId": 2566,
+            "rarity": 151
+          },
+          {
+            "tokenId": 2681,
+            "rarity": 156
+          },
+          {
+            "tokenId": 8127,
+            "rarity": 157
+          },
+          {
+            "tokenId": 2066,
+            "rarity": 159
+          },
+          {
+            "tokenId": 5742,
+            "rarity": 160
+          },
+          {
+            "tokenId": 3493,
+            "rarity": 161
+          },
+          {
+            "tokenId": 2338,
+            "rarity": 163
+          },
+          {
+            "tokenId": 5944,
+            "rarity": 163
+          },
+          {
+            "tokenId": 2938,
+            "rarity": 165
+          },
+          {
+            "tokenId": 1658,
+            "rarity": 166
+          },
+          {
+            "tokenId": 4747,
+            "rarity": 167
+          },
+          {
+            "tokenId": 8472,
+            "rarity": 168
+          },
+          {
+            "tokenId": 5234,
+            "rarity": 181
+          },
+          {
+            "tokenId": 1374,
+            "rarity": 184
+          },
+          {
+            "tokenId": 8386,
+            "rarity": 185
+          },
+          {
+            "tokenId": 9368,
+            "rarity": 187
+          },
+          {
+            "tokenId": 6275,
+            "rarity": 189
+          },
+          {
+            "tokenId": 3489,
+            "rarity": 190
+          },
+          {
+            "tokenId": 6304,
+            "rarity": 191
+          },
+          {
+            "tokenId": 8780,
+            "rarity": 194
+          },
+          {
+            "tokenId": 2249,
+            "rarity": 195
+          },
+          {
+            "tokenId": 1478,
+            "rarity": 196
+          },
+          {
+            "tokenId": 2484,
+            "rarity": 197
+          },
+          {
+            "tokenId": 1886,
+            "rarity": 200
+          },
+          {
+            "tokenId": 5412,
+            "rarity": 201
+          },
+          {
+            "tokenId": 7121,
+            "rarity": 202
+          },
+          {
+            "tokenId": 987,
+            "rarity": 204
+          },
+          {
+            "tokenId": 5761,
+            "rarity": 209
+          },
+          {
+            "tokenId": 5253,
+            "rarity": 210
+          },
+          {
+            "tokenId": 1935,
+            "rarity": 211
+          },
+          {
+            "tokenId": 3609,
+            "rarity": 211
+          },
+          {
+            "tokenId": 2329,
+            "rarity": 213
+          },
+          {
+            "tokenId": 2306,
+            "rarity": 219
+          },
+          {
+            "tokenId": 7014,
+            "rarity": 223
+          },
+          {
+            "tokenId": 6515,
+            "rarity": 224
+          },
+          {
+            "tokenId": 3328,
+            "rarity": 226
+          },
+          {
+            "tokenId": 4559,
+            "rarity": 243
+          },
+          {
+            "tokenId": 2708,
+            "rarity": 247
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "OptimisticBunnies",
+    "slug": "optimisticbunnies",
+    "filters": []
+  },
+  {
+    "id": 3,
+    "name": "Circular Art: Octavas",
+    "slug": "octavas",
+    "filters": []
+  },
+  {
+    "id": 4,
+    "name": "PixelBunnies",
+    "slug": "pixelbunnies",
+    "filters": []
+  },
+  {
+    "id": 5,
+    "name": "Ethernauts",
+    "slug": "ethernauts",
+    "filters": []
+  },
+  {
+    "id": 6,
+    "name": "Squibz",
+    "slug": "squibz",
+    "filters": []
+  },
+  {
+    "id": 7,
+    "name": "PixelPics",
+    "slug": "pixelpics",
+    "filters": []
+  },
+  {
+    "id": 8,
+    "name": "OptimisticApes",
+    "slug": "optimisticapes",
+    "filters": []
+  },
+  {
+    "id": 15,
+    "name": "PixelConInvaders",
+    "slug": "pixelconinvaders",
+    "filters": []
+  },
+  {
+    "id": 16,
+    "name": "ThalesRoyalePass",
+    "slug": "thalesroyalepass",
+    "filters": []
+  }
+]

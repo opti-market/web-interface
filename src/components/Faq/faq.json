@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "question": "Which networks does OptiMarket support?",
+    "answer": "OptiMarket is a marketplace native to the Optimism Ethereum layer 2 scaling protocol. <0>Click here to connect MetaMask to Optimism</0>."
+	},
+	{
+    "id": 2,
+    "question": "Are there any marketplace fees?",
+		"answer": "OptiMarket charges a 1,5% marketplace fee, of which 1% goes to the marketplace treasury, and 0,5% being reserved for public goods funding. Additionally, creators can set a royalty fee to earn revenue for their NFT sales, with the option to donate part or all of their royalties to public goods."
+  },
+  {
+    "id": 3,
+    "question": "I am a creator. How can I add my collection?",
+    "answer": "To avoid foul play on OptiMarket, initially all available collections need to be whitelisted. Contact us on our Discord and we will set you up!"
+  },
+  {
+    "id": 4,
+    "question": "Which tokens can I pay with?",
+    "answer": "OptiMarket currently only supports Wrapped ETH."
+  },
+  {
+    "id": 5,
+    "question": "Where can I get Wrapped ETH?",
+    "answer": "You can bridge ETH from Ethereum to Optimism using bridges, for example: <1>Optimism Gateway</1>. For more options, have a look at the <2>Optimism bridge ecosystem</2>. In order to trade on OptiMarket, you need to convert your ETH to WETH, for example with <3>Uniswap</3>."
+  }
+]

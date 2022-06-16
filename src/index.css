@@ -1,0 +1,33 @@
+body {
+  background-color: white;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* : url("./assets/images/optimarketBG.jpg");
+  background-attachment: fixed; */
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+{ /*
+
+--space-cadet: #2b3a67;
+--dark-electric-blue: #496a81;
+--cadet-blue: #66999b;
+--sage: #b3af8f;
+--mellow-apricot: #ffc482;
+
+
+--space-cadet: hsla(225, 41%, 29%, 1);
+--dark-electric-blue: hsla(205, 28%, 40%, 1);
+--cadet-blue: hsla(182, 21%, 50%, 1);
+--sage: hsla(53, 19%, 63%, 1);
+--mellow-apricot: hsla(32, 100%, 75%, 1);
+*/}
