@@ -36,7 +36,7 @@
     "i18next-xhr-backend": "^3.2.2",
     "inter-ui": "^3.15.0",
     "polished": "^4.1.0",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "react": "^17.0.1",
     "react-device-detect": "^1.15.0",
     "react-dom": "^17.0.1",
